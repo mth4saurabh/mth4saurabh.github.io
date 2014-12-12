@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: https://www.google.com/search
+url: http://mth4saurabh.github.io
+title: Vita Geek
+subtitle: Code | Thoughts
+author: Saurabh B
+# simple_search: https://www.google.com/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -74,7 +74,7 @@ twitter_user:
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -91,11 +91,12 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: saurabhbblog
 disqus_show_comment_count: false
 
 # Google Analytics
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
+
