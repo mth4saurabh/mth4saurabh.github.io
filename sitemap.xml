@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://blog.saurabhb.me/blog/2014/11/11/sending-emails-in-rails-applications/</loc>
+    <lastmod>2014-11-11T19:08:15+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://blog.saurabhb.me/blog/2014/10/13/understanding-polymorphic-associations-in-rails/</loc>
+    <lastmod>2014-10-13T21:44:47+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://blog.saurabhb.me/blog/2014/10/09/integrate-facebook-graph-apis-in-rails-applications/</loc>
+    <lastmod>2014-10-09T09:46:57+05:30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://blog.saurabhb.me/</loc>
+    <lastmod>2014-12-12T13:26:46+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://blog.saurabhb.me/blog/archives/</loc>
+    <lastmod>2014-12-12T13:26:46+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

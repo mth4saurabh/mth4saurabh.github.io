@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Vita Geek]]></title>
+  <link href="http://blog.saurabhb.me/atom.xml" rel="self"/>
+  <link href="http://blog.saurabhb.me/"/>
+  <updated>2014-12-12T13:26:46+05:30</updated>
+  <id>http://blog.saurabhb.me/</id>
+  <author>
+    <name><![CDATA[Saurabh B]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Sending Emails in Rails Applications]]></title>
+    <link href="http://blog.saurabhb.me/blog/2014/11/11/sending-emails-in-rails-applications/"/>
+    <updated>2014-11-11T19:08:15+05:30</updated>
+    <id>http://blog.saurabhb.me/blog/2014/11/11/sending-emails-in-rails-applications</id>
+    <content type="html"><![CDATA[<p>This is blog post was written on <a href="http://www.gotealeaf.com/blog/handling-emails-in-rails">differnet blog(gotealeaf)</a>. Please click on <a href="http://www.gotealeaf.com/blog/handling-emails-in-rails">link above</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Polymorphic Associations in Rails]]></title>
+    <link href="http://blog.saurabhb.me/blog/2014/10/13/understanding-polymorphic-associations-in-rails/"/>
+    <updated>2014-10-13T21:44:47+05:30</updated>
+    <id>http://blog.saurabhb.me/blog/2014/10/13/understanding-polymorphic-associations-in-rails</id>
+    <content type="html"><![CDATA[<p>This is blog post was written on <a href="http://www.gotealeaf.com/blog/understanding-polymorphic-associations-in-rails">differnet blog(gotealeaf)</a>. Please click on <a href="http://www.gotealeaf.com/blog/understanding-polymorphic-associations-in-rails">link above</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Integrate Facebook Graph APIs in Rails]]></title>
+    <link href="http://blog.saurabhb.me/blog/2014/10/09/integrate-facebook-graph-apis-in-rails-applications/"/>
+    <updated>2014-10-09T09:46:57+05:30</updated>
+    <id>http://blog.saurabhb.me/blog/2014/10/09/integrate-facebook-graph-apis-in-rails-applications</id>
+    <content type="html"><![CDATA[<p>This is blog post was written on <a href="http://www.gotealeaf.com/blog/facebook-graph-api-using-omniauth-facebook-and-koala">differnet blog(gotealeaf)</a>. Please click on <a href="http://www.gotealeaf.com/blog/facebook-graph-api-using-omniauth-facebook-and-koala">link above</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
